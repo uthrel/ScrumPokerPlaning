@@ -5,7 +5,7 @@ Scrum poker web application
 
 
 
-####################################DEPENDENCIES####################################
+## DEPENDENCIES
 
 ## THE ENVIRONMENT
 
