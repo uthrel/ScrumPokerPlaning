@@ -1,0 +1,28 @@
+{
+  "name": "scrumpokerplaning",
+  "version": "1.0.0",
+  "description": "Scrum poker planning web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uthrel/ScrumPokerPlaning.git"
+  },
+  "author": "Reha Ok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uthrel/ScrumPokerPlaning/issues"
+  },
+  "homepage": "https://github.com/uthrel/ScrumPokerPlaning#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "mongoose": "^5.3.9"
+  }
+}
